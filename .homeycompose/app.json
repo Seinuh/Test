@@ -1,12 +1,12 @@
 {
-  "id": "com.whatsapp",
+  "id": "com.textmebot",
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
     "local"
   ],
-  "brandColor": "#25d366",
+  "brandColor": "#000000",
   "name": {
     "en": "Whatsapp"
   },
